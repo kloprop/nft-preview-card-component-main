@@ -23,8 +23,8 @@ And I mostly use flex for aligning items, I am also not sure whether there are b
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/kloprop/nft-preview-card-component-main.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/kloprop/nft-preview-card-component-main.git
+- Live Site URL: https://kloprop.github.io/nft-preview-card-component-main/
 
 ### What I learned
 
