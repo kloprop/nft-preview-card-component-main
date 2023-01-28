@@ -43,6 +43,8 @@ body {
   margin: 0 auto;
   width: 20rem;
   position: relative;
+  border-radius: 5px;
+  overflow: hidden;
 }
 .card-overlay {
   position: absolute;
@@ -62,15 +64,14 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-15px, -15px);
-  z-index: 5;
 }
 .card__header:hover .card-overlay {
-  opacity: 0.7;
+  opacity: 0.8;
 }
 
 .card__image {
   width: 100%;
-  border-radius: 5px;
+  display: block;
 }
 
 .card__heading {
